@@ -2,6 +2,7 @@ Completed Questions ->
 
 1. Count the Number of Vowels in a String and Throw Exceptions.
 2. Calculate Run Rate and Throw Exceptions.
+3. Balanced Parenthesis.
 
 
 Skipped Questions ->
