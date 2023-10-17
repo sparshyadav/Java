@@ -1,0 +1,8 @@
+Completed Questions ->
+
+1. Count the Number of Vowels in a String and Throw Exceptions.
+
+
+Skipped Questions ->
+
+1. Length of longest Substring with all distinct Characters.
