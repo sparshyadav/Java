@@ -4,6 +4,7 @@ Completed Questions ->
 2. Calculate Run Rate and Throw Exceptions.
 3. Balanced Parenthesis.
 4. Find the longest Substring with all Distinct Characters.
+5. Toggle Each Character in a String.
 
 
 Skipped Questions ->
