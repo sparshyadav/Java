@@ -5,6 +5,7 @@ Completed Questions ->
 3. Balanced Parenthesis.
 4. Find the longest Substring with all Distinct Characters.
 5. Toggle Each Character in a String.
+6. Find the First Index if a string contains another string.
 
 
 Skipped Questions ->
