@@ -7,6 +7,7 @@ Completed Questions ->
 5. Toggle Each Character in a String.
 6. Find the First Index if a string contains another string.
 7. Check if the Array contains all Distinct Elements or some duplicate Elements.
+8. Check if the Array Elements can be Arranged in an Arithmentic Progression.
 
 
 Skipped Questions ->
