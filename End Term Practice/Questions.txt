@@ -9,10 +9,12 @@ Completed Questions ->
 7. Check if the Array contains all Distinct Elements or some duplicate Elements.
 8. Check if the Array Elements can be Arranged in an Arithmentic Progression.
 9. Caluculate the Sum of an Array, and Throw an Exception if the Sum is greater than 100.
-
+10. Find the Maximum Sum of Consecutive Numbers in an Array.
+ 
 
 Skipped Questions ->
 
 1. Length of longest Substring with all distinct Characters.
 2. String Permutation
-3. Triplet Sum equals 0.
+3. Good SubArray.
+4. Funny Digits.
