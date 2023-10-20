@@ -10,7 +10,9 @@ Completed Questions ->
 8. Check if the Array Elements can be Arranged in an Arithmentic Progression.
 9. Caluculate the Sum of an Array, and Throw an Exception if the Sum is greater than 100.
 10. Find the Maximum Sum of Consecutive Numbers in an Array.
- 
+11. Find the Character with Maximum Frequency in a String.
+12. Next Greater Element in an Array.
+
 
 Skipped Questions ->
 
