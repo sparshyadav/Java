@@ -12,7 +12,24 @@ Completed Questions ->
 10. Find the Maximum Sum of Consecutive Numbers in an Array.
 11. Find the Character with Maximum Frequency in a String.
 12. Next Greater Element in an Array.
-
+13. Find the Maximum Length of subString with all Vowels.
+14. Count the Total Number of Palindromic subStrings in a String.
+15. Stock Span.
+16. Find the Length of longest String from a String.
+17. Compare String from a LinkedList to some other String, and if the LinkedList String is Lexographically Greater than the other String, print it.
+18. Alice and Bob.
+19. Remove Space from a String.
+20. Reverse each word in a String, and each Character from each word.
+21. Check if the Input is Valid and throw Exceptions accordingly.
+22. Create a pair of Characters from a String and print the Lexographically greater one.
+23. Check if the String has Balanced Parenthesis.
+24. Print all the Subarrays whose sum is Zero.
+25. Find the Maximum Number of Pairs from the Array Elements.
+26. Find Total Number of SetBits from 1 to N.
+27. Find the SubArray with Zero Sum.
+28. Print all the Subsequence of a String.
+29. Grade Students Marks from a 2D Array to a Answer Key, and Print their Marks.
+30. Make all the Array Elements equal by doubling, or tripling them.
 
 Skipped Questions ->
 
