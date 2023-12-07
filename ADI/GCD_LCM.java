@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class GCD {
+public class GCD_LCM {
     static int findGCD(int n1, int n2) {
         int ans = 1;
 
@@ -16,6 +16,14 @@ public class GCD {
         return ans;
     }
 
+    static int findLCM(int n1, int n2) {
+        int gcd = findGCD(n1, n2);
+
+        int lcm = (n1 * n2) / gcd;
+
+        return lcm;
+    }
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -26,7 +34,9 @@ public class GCD {
         int n2 = sc.nextInt();
 
         int gcd = findGCD(n1, n2);
+        int lcm = findLCM(n1, n2);
 
-        System.out.println(gcd);
+        System.out.println("GCD - " + gcd);
+        System.out.println("LCM - " + lcm);
     }
 }
